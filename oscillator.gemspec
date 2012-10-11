@@ -29,5 +29,5 @@ Gem::Specification.new do |s|
   s.require_paths         = ["lib"]
   #= Manifest =#
 
-  s.add_dependency              'activerecord',         '~> 3.1'
+  s.add_development_dependency  'activemodel',         '~> 3.1'
 end
