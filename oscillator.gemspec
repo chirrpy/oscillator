@@ -32,6 +32,7 @@ Gem::Specification.new do |s|
   s.add_dependency              'carrierwave',          '~> 0.5'
 
   s.add_development_dependency  'activemodel',          '~> 3.1'
+  s.add_development_dependency  'actionpack',           '~> 3.1'
   s.add_development_dependency  'rspec',                '~> 2.11'
   s.add_development_dependency  'fuubar',               '~> 1.0'
   s.add_development_dependency  'guard',                '~> 1.4.0'
