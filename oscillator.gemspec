@@ -30,4 +30,6 @@ Gem::Specification.new do |s|
   #= Manifest =#
 
   s.add_development_dependency  'activemodel',         '~> 3.1'
+
+  s.add_dependency              'carrierwave',         '~> 0.5'
 end
