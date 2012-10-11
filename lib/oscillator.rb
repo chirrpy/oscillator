@@ -1,6 +1,6 @@
 require 'oscillator/version'
-require 'oscillator/file_size_validator'
-require 'oscillator/canonical_uploader_path'
+require 'oscillator/validations'
+require 'oscillator/file_location_resolver'
 
 module Oscillator
 end
